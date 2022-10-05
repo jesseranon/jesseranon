@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
 </a>
 
+
+## Projects
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
