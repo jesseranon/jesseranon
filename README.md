@@ -59,7 +59,7 @@
       <h3 align="center">The Vegas Bartender's Pocket Reference</h3>
         <br />
         <a target="_blank" href="https://vegasbartenderreference.netlify.app/">
-            <img src="" width="100%" alt="The Vegas Bartender's Pocket Reference"/>
+            <img src="https://user-images.githubusercontent.com/5935095/194149465-126dcc6c-6a36-404e-a54b-d01622fcbec3.gif" width="100%" alt="The Vegas Bartender's Pocket Reference"/>
         </a>
         <br />
         <p align="center">
