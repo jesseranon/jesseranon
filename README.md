@@ -76,7 +76,7 @@
       <h3 align="center">Street Fighter II Character Select</h3>
         <br />
       <a target="_blank" href="https://efficacious-sudden-smoke.glitch.me/">
-          <img src="https://user-images.githubusercontent.com/5935095/194140229-5b959e1b-9dea-486a-9e3c-8af40e5fd572.gif" width="100%"  alt="Street Fighter II Character Select"/>
+          <img src="https://user-images.githubusercontent.com/5935095/194156123-6cf3da4d-0a39-4832-9668-892613e902a0.gif" width="100%"  alt="Street Fighter II Character Select"/>
       </a>
         <br />
       <p align="center">
