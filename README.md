@@ -36,10 +36,8 @@
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Las Vegas' one and only DJ Miss Joy.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">JesseRanon.dev</h3>
-
         <br />
       <a target="_blank" href="https://jesseranon.dev">
           <img src="https://user-images.githubusercontent.com/5935095/194132693-09fea6aa-6965-407b-b5fb-051b3e33599a.gif" width="100%"  alt="JesseRanon.dev"/>
