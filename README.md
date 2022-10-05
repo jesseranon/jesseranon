@@ -22,8 +22,9 @@
 
 <table bordercolor="#66b2b2">
   <tr>
+    
     <td width="50%" valign="top">
-      <h3 align="center">JesseRanon.dev</h3>
+      <h3 align="center">DJMissJoy.com</h3>
 
         <br />
       <a target="_blank" href="https://www.djmissjoy.com/">
@@ -35,8 +36,9 @@
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Learn more about me and my experiences as a Software Engineer!</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Las Vegas' one and only DJ Miss Joy.</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">JesseRanon.dev</h3>
 
@@ -55,6 +57,7 @@
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Learn more about me and my experiences as a Software Engineer!</p>
     </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top">
