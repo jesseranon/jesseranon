@@ -22,10 +22,8 @@
 
 <table bordercolor="#66b2b2">
   <tr>
-    
     <td width="50%" valign="top">
       <h3 align="center">DJMissJoy.com</h3>
-
         <br />
       <a target="_blank" href="https://www.djmissjoy.com/">
           <img src="https://user-images.githubusercontent.com/5935095/194143770-06541611-2e8d-4131-ae52-3b7f4fba6793.gif" width="100%"  alt="DJMissJoy.com"/>
@@ -57,7 +55,6 @@
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Learn more about me and my experiences as a Software Engineer!</p>
     </td>
-    
   </tr>
   <tr>
     <td width="50%" valign="top">
