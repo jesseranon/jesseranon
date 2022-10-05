@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">A creative, passionate, and detail-oriented software engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="CENTER">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/jetsuko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jetsuko_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jesseranon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesseranon" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jesseranon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jesseranon" height="30" width="40" /></a>
