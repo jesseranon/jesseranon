@@ -89,7 +89,7 @@
           <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
         </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Nintendo Wii for the web with a wiimote that tracks to cursor movements.</p>
+        <p><strong>HTML, CSS, Javascript</strong> - A way to relive Street Fighter II.  Choose some fighters and watch some matches.</p>
     </td>
   </tr>
 </table>
