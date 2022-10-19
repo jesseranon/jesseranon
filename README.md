@@ -65,10 +65,10 @@
         </a>
         <br />
         <p align="center">
-          <a target="_blank" href="https://user-images.githubusercontent.com/5935095/194135176-2fe550c9-685a-4706-a99f-d94d53014017.gif">
+          <a target="_blank" href="https://github.com/jesseranon/bartender-reference">
             <img src="https://img.shields.io/badge/github-272b33?logo=github&logoColor=39d353&style=for-the-badge" alt="github badge">
           </a>
-          <a target="_blank" href="https://wizarding-registry.netlify.app/">
+          <a target="_blank" href="https://vegasbartenderreference.netlify.app/">
             <img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
           </a>
         </p>
