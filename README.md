@@ -3,7 +3,7 @@
 
 <p>Interested in creating impactful web applications. Adaptable to new challenges, with an eye for detail and creative problem-solving.  In past roles, built and implemented successful Python, browser- and Excel-based tools that have saved my teams hundreds of hours of manual labor by streamlining essential processes as well as project-based tasks.</p>
 
-* **Role**: Software Engineer
+* **Role**: Full-Stack Web Developer
 * **Location**: Nevada
 
 ## Social media
