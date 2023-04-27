@@ -1,5 +1,5 @@
 ## Jesse Ranon
-<h3 align="center">A creative, passionate, and detail-oriented software engineer</h3>
+<h3 align="center">A creative, passionate, and detail-oriented full-stack web developer</h3>
 
 <p>Interested in creating impactful web applications. Adaptable to new challenges, with an eye for detail and creative problem-solving.  Built and implemented successful browser- and Excel-based tools that have saved my teams hundreds of hours of manual labor by streamlining essential processes as well as project-based tasks.</p>
 
