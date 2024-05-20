@@ -10,7 +10,7 @@
 <a target="_blank" href="https://jesseranon.dev">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=00c5a9&style=for-the-badge">
 </a>
-<a target="_blank" href="https://twitter.com/skadadark">
+<a target="_blank" href="https://x.com/jesseranon">
   <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/jesseranon/">
